@@ -2,12 +2,12 @@ public class VowelConsonant {
 
     public static void main(String[] args) {
 
-        char ch = 'i';
+        char sc = 'i';
 
-        if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' )
-            System.out.println(ch + " is vowel");
+        if(sc == 'a' || sc == 'e' || sc == 'i' || sc == 'o' || sc == 'u' )
+            System.out.println(ch +  " is vowel");
         else
-            System.out.println(ch + " is consonant");
+            System.out.println(ch +  " is consonant");
 
     }
 }
